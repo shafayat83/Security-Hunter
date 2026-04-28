@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# Environment variables
+.env
+
+# Database
+sentinel_logs.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
