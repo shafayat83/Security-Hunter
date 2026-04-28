@@ -21,8 +21,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SentinelX-Hunter.git
-   cd SentinelX-Hunter
+   git clone https://github.com/shafayat83/Security-Hunter.git
    ```
 
 2. **Install dependencies:**
